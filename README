@@ -1,0 +1,3 @@
+Nagios check_ntp in Perl for multi-platform compatibility.
+Uses http://search.cpan.org/~willmojg/Net-NTP-1.2/NTP.pm
+libnet-ntp-perl in Debian
